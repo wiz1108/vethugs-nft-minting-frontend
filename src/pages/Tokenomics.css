@@ -1,0 +1,35 @@
+.tokenomics-u-section-1 {
+  background-image: none;
+}
+
+.tokenomics-u-section-1 .u-sheet-1 {
+  min-height: 1188px;
+}
+
+.tokenomics-u-section-1 .u-image-1 {
+  width: 570px;
+  height: 1140px;
+  margin: 24px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .tokenomics-u-section-1 .u-sheet-1 {
+    min-height: 1128px;
+  }
+
+  .tokenomics-u-section-1 .u-image-1 {
+    width: 540px;
+    height: 1080px;
+  }
+}
+
+@media (max-width: 575px) {
+  .tokenomics-u-section-1 .u-sheet-1 {
+    min-height: 728px;
+  }
+
+  .tokenomics-u-section-1 .u-image-1 {
+    width: 340px;
+    height: 680px;
+  }
+}

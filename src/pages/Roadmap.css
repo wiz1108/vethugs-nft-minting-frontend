@@ -1,0 +1,35 @@
+.roadmap-u-section-1 {
+  background-image: none;
+}
+
+.roadmap-u-section-1 .u-sheet-1 {
+  min-height: 1199px;
+}
+
+.roadmap-u-section-1 .u-image-1 {
+  width: 570px;
+  height: 1140px;
+  margin: 25px auto 34px;
+}
+
+@media (max-width: 767px) {
+  .roadmap-u-section-1 .u-sheet-1 {
+    min-height: 1105px;
+  }
+
+  .roadmap-u-section-1 .u-image-1 {
+    width: 540px;
+    height: 1080px;
+  }
+}
+
+@media (max-width: 575px) {
+  .roadmap-u-section-1 .u-sheet-1 {
+    min-height: 705px;
+  }
+
+  .roadmap-u-section-1 .u-image-1 {
+    width: 340px;
+    height: 680px;
+  }
+}
